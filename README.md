@@ -12,12 +12,7 @@
 
 > **系统运行演示**：展示三子棋AI系统的完整工作流程，包括视觉检测、AI决策和机械臂控制
 
-<div align="center">
-  <video width="600" controls>
-    <source src="https://github.com/user-attachments/assets/42fb5d3f-0636-4a9d-8393-1cd953ab99de" type="video/mp4">
-    您的浏览器不支持视频播放。请 <a href="https://github.com/user-attachments/assets/42fb5d3f-0636-4a9d-8393-1cd953ab99de">点击此处下载视频</a>
-  </video>
-</div>
+[![演示视频](https://img.shields.io/badge/🎥_演示视频-点击观看-blue.svg)](https://github.com/poboll/tic-tac-toe-ai/releases/tag/v1.0.0)
 
 **视频内容包括：**
 - 🎯 棋盘校准与坐标映射
@@ -25,6 +20,8 @@
 - 🧠 AI策略决策过程
 - 🤖 机械臂精确落子
 - 🔄 防悔棋机制演示
+
+> 📥 **下载说明**：点击上方按钮访问Release页面，在Assets部分下载演示视频文件
 
 ---
 
