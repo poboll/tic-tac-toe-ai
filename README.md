@@ -8,6 +8,26 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Competition](https://img.shields.io/badge/Competition-2024电赛E题-red.svg)]()
 
+## 🎬 演示视频
+
+> **系统运行演示**：展示三子棋AI系统的完整工作流程，包括视觉检测、AI决策和机械臂控制
+
+<div align="center">
+  <video width="600" controls>
+    <source src="https://github.com/user-attachments/assets/42fb5d3f-0636-4a9d-8393-1cd953ab99de" type="video/mp4">
+    您的浏览器不支持视频播放。请 <a href="https://github.com/user-attachments/assets/42fb5d3f-0636-4a9d-8393-1cd953ab99de">点击此处下载视频</a>
+  </video>
+</div>
+
+**视频内容包括：**
+- 🎯 棋盘校准与坐标映射
+- 👁️ 实时棋子检测与识别
+- 🧠 AI策略决策过程
+- 🤖 机械臂精确落子
+- 🔄 防悔棋机制演示
+
+---
+
 ## 📖 项目简介
 
 本项目是针对2024年全国大学生电子设计竞赛E题开发的**高鲁棒性三子棋AI视觉检测系统**。系统集成了计算机视觉、人工智能决策算法和串口通信技术，实现了对三子棋游戏的全自动视觉识别、智能决策和机械臂控制。
